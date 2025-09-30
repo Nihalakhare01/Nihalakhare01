@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 # 💫 About Me:
-👀 I’m interested in Java development and web development.<br>🌱 I’m currently learning Spring boot,Microservices, Data Structures & Algorithm and MERN Development.<br> I’m looking to collaborate on several different and interactive ideas..<br> How to reach me mail - thisisnihal95@gmail.com<br>⚡ Fun fact: .
+ I’m interested in Java development and web development.<br> I’m currently learning Spring boot,Microservices, Data Structures & Algorithm and MERN Development.<br> I’m looking to collaborate on several different and interactive ideas..<br> How to reach me mail - thisisnihal95@gmail.com<br>⚡ Fun fact: .
 
 
 ## 🌐 Socials:
